@@ -1,0 +1,16 @@
+[
+  {
+    "DeviceType": "Philips2",
+    "Title": "飞利浦",
+
+    "BedAdtList": [
+      {
+        "DeviceIP": "172.17.0.234",
+        "DevicePort": 24105,
+        "HisBedNO": "10",
+        "roomType": "0"
+      }
+        ]
+  }
+
+]
